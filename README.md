@@ -1,1 +1,3 @@
 # lbrunet-syntax
+
+OBSOLETE
